@@ -1,0 +1,15 @@
+{
+    "name" : "Cell Colorizer",
+    "guid" : "asc.{D36DFFB5-08F0-4A68-B829-5FB1F7D49728}",
+    "variations" : [
+        {
+            "url"         : "index.html",
+            "icons"           : ["icon.png", "icon@2x.png"],
+            "EditorsSupport"  : ["cell"],
+            "buttons"         : [],
+            "isVisual"        : true,
+            "isInsideMode"    : true,
+            "isModal": false
+        }
+    ]
+}
