@@ -8,8 +8,7 @@
             "EditorsSupport"  : ["cell"],
             "buttons"         : [],
             "isVisual"        : true,
-            "isInsideMode"    : true,
-            "isModal": false
+            "isInsideMode"    : true
         }
     ]
 }
