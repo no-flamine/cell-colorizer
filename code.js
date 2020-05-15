@@ -20,7 +20,7 @@
 
     function drawImage() {
       let scale = 70 / image.width
-      canvas.width = image.width * scale;
+      canvas.width = 70;
       canvas.height = image.height * scale;
       var ctx = canvas.getContext('2d');
       ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
@@ -50,8 +50,6 @@
           oWorksheet.SetColumnWidth(x, 2);
         }
       });
-
-
     }
   };
 })(window, undefined);    
